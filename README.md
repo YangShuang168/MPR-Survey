@@ -15,7 +15,7 @@ This paper provides a comprehensive review of recent advancements in mutimodal p
 |1| [Large-scale place recognition based on camera-lidar fused descriptor](https://www.mdpi.com/1424-8220/20/10/2870) | Shaorong Xie | Sensors |  |
 |2| [Robust place recognition based on multi-sensor fusion](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9588194) | Hao Gu | CYBER|  |
 |3| [MinkLoc++: Lidar and monocular image fusion for place recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9533373) | Jacek Komorowski | IJCNN | [Github](https://github.com/jac99/MinkLocMultimodal) |
-|4| [MMDF: Multi-modal deep feature based place recognition of mobile robots with applications on cross-scene navigation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9781852) | Yu X | IEEE Robotics and Automation Letters |  |
+|4| [MMDF: Multi-modal deep feature based place recognition of mobile robots with applications on cross-scene navigation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9781852) | Xiang Yu | IEEE Robotics and Automation Letters |  |
 |5| [A Fast LiDAR Place Recognition Descriptor Based on Density Classification and Multi-Modal Fusion Place Recognition Strategy](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11155160) | Guoliang Yu | IEEE Robotics and Automation Letters |  |
 #### 1. 2 Cross-Modal Interaction-Enhanced Fusion
 | No. | Title | First Author | Venue | Github |
