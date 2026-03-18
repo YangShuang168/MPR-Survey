@@ -11,7 +11,7 @@ This paper provides a comprehensive review of recent advancements in mutimodal p
 
 3.Radar-Involved Multimodal Fusion
 
-![Image text](https://github.com/YangShuang168/MPR-Survey/blob/main/01%20structure%20of%20MPR-Survey.jpg)
+<!-- ![Image text](https://github.com/YangShuang168/MPR-Survey/blob/main/01%20structure%20of%20MPR-Survey.jpg) -->
 
 ## 📊 Structure of MPR Survey
 
