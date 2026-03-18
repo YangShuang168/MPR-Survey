@@ -4,10 +4,14 @@ This paper presents a systematic review of multimodal place recognition research
 Place recognition provides global localization cues for Simultaneous Localization and Mapping (SLAM) and serves as a key enabler for autonomous vehicles and mobile robots. However, place recognition approaches dominated by a single sensor modality are inherently constrained by modality-specific limitations, making it difficult to simultaneously satisfy the requirements of accuracy, robustness, and generalization in complex environments. multimodal information fusion has emerged as a mainstream paradigm for overcoming the performance bottlenecks of unimodal methods. Despite the rapid development of this field, a comprehensive survey dedicated to multimodal place recognition (MPR) remains lacking. To bridge this gap, this paper presents a systematic review of MPR research. We first analyze the performance characteristics and complementary properties of core sensing modalities, and clarify their fundamental task formulations. We then establish three representative paradigms from a fusion-oriented perspective: (1) vision-LiDAR fusion, (2) text-involved multimodal fusion, and (3) radar-involved multimodal fusion. we further provide an indepth analysis of their fundamental principles, representative methods, advantages, and limitations. Subsequently, we systematically organize commonly used benchmark datasets, introduce core evaluation metrics, and conduct a comparative analysis of representative approaches. Finally, we discuss the practical significance of MPR in autonomous driving, robotic navigation, and remote sensing-based localization, and outline promising research directions for future exploration.
 ## Survey Overview
 This paper provides a comprehensive review of recent advancements in mutimodal place recognition, focusing on three key methodological paradigms:
+
 1.Vision-LiDAR Fusion
+
 2.Text-Involved Multimodal Fusion
+
 3.Radar-Involved Multimodal Fusion
-![输入图片说明](/imgs/2026-03-18/EZRCJRE9lp1mVHVk.jpeg)
+
+[Overall structure of our Multimodal Place Recognition survey](/imgs/2026-03-18/EZRCJRE9lp1mVHVk.jpeg)
 ## All the methods are listed below:
 ### 1.  Vision-LiDAR Fusion
 #### 1. 1 Basic Feature Fusion
