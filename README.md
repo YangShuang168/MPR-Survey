@@ -11,7 +11,7 @@ This paper provides a comprehensive review of recent advancements in mutimodal p
 
 3.Radar-Involved Multimodal Fusion
 
-[Overall structure of our Multimodal Place Recognition survey](/imgs/2026-03-18/EZRCJRE9lp1mVHVk.jpeg)
+![Image text](https://github.com/YangShuang168/MPR-Survey/blob/main/01%20structure%20of%20MPR-Survey.jpg)
 ## All the methods are listed below:
 ### 1.  Vision-LiDAR Fusion
 #### 1. 1 Basic Feature Fusion
