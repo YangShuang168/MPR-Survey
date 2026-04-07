@@ -16,7 +16,7 @@ This paper provides a comprehensive review of recent advancements in mutimodal p
 
 ##  Structure of MPR-Survey
 
-[![Preview](./01%20Structure%20of%20MPR-Survey.pdf)](./01%20Structure%20of%20MPR-Survey.pdf)
+[![Preview](./01%20Structure%20of%20MPR-survey.jpg)](./01%20Structure%20of%20MPR-Survey.pdf)
 
 ## All the methods are listed below:
 ### 1.  Vision-LiDAR Fusion
