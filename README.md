@@ -12,10 +12,11 @@ This paper provides a comprehensive review of recent advancements in mutimodal p
 3.Radar-Involved Multimodal Fusion
 
 <!-- ![Image text](https://github.com/YangShuang168/MPR-Survey/blob/main/01%20structure%20of%20MPR-Survey.jpg) -->
+<!-- ![Preview](./01%20structure%20of%20MPR-Survey.jpg)](./01%20Structure%20of%20MPR-Survey.pdf) -->
 
 ##  Structure of MPR-Survey
 
-[![Preview](./01%20structure%20of%20MPR-Survey.jpg)](./01%20Structure%20of%20MPR-Survey.pdf)
+[![Preview](./01%20Structure%20of%20MPR-Survey.pdf)](./01%20Structure%20of%20MPR-Survey.pdf)
 
 ## All the methods are listed below:
 ### 1.  Vision-LiDAR Fusion
