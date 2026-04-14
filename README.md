@@ -1,7 +1,3 @@
-
-
-
-> Written with [StackEdit中文版](https://stackedit.cn/).
 > # Multimodal Place Recognition: A Comprehensive Survey
 This paper presents a systematic review of multimodal place recognition research.
 ## Abstract
