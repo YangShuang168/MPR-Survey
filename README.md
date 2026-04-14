@@ -113,7 +113,7 @@ This paper provides a comprehensive review of recent advancements in mutimodal p
 |No.| Title | First Author | Venue | Github |
 |--|--|--|--|--|
 |1|[Creating navigation map in semi-open scenarios for intelligent vehicle localization using multi-sensor fusion](https://www.sciencedirect.com/science/article/pii/S0957417421009507) | Yicheng Li|Expert Systems with Applications|  |
-|2|[Learning to find the optimal correspondence between SAR and optical image patches]() |Haoyuan Li |IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing |[Github](https://github.com/Collebt/CMPC)|
+|2|[Learning to find the optimal correspondence between SAR and optical image patches](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10286162) |Haoyuan Li |IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing |[Github](https://github.com/Collebt/CMPC)|
 |3|[AGL-NET: Aerial-ground cross-modal global localization with varying scales](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10802020)|Tianrui Guan | IROS|  |
 |4|[Maplocnet: Coarse-to-fine feature registration for visual re-localization in navigation maps](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10802757) |Hang Wu|IROS |  |
 |5|[RGB-Thermal Visual Place Recognition via Vision Foundation Model](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11247479)|Minghao Ye|IROS| [Github](https://github.com/HITSZ-NRSL/RGB-Thermal-VPR) |
