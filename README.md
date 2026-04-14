@@ -1,4 +1,8 @@
-# Multimodal Place Recognition: A Comprehensive Survey
+
+
+
+> Written with [StackEdit中文版](https://stackedit.cn/).
+> # Multimodal Place Recognition: A Comprehensive Survey
 This paper presents a systematic review of multimodal place recognition research.
 ## Abstract
 Place recognition provides global localization cues for Simultaneous Localization and Mapping (SLAM) and serves as a key enabler for autonomous vehicles and mobile robots. However, place recognition approaches dominated by a single sensor modality are inherently constrained by modality-specific limitations, making it difficult to simultaneously satisfy the requirements of accuracy, robustness, and generalization in complex environments. multimodal information fusion has emerged as a mainstream paradigm for overcoming the performance bottlenecks of unimodal methods. Despite the rapid development of this field, a comprehensive survey dedicated to multimodal place recognition (MPR) remains lacking. To bridge this gap, this paper presents a systematic review of MPR research. We first analyze the performance characteristics and complementary properties of core sensing modalities, and clarify their fundamental task formulations. We then establish three representative paradigms from a fusion-oriented perspective: (1) vision-LiDAR fusion, (2) text-involved multimodal fusion, (3) radar-involved multimodal fusion, and (4) other multimodal fusion methods. we further provide an indepth analysis of their fundamental principles, representative methods, advantages, and limitations. Subsequently, we systematically organize commonly used benchmark datasets, introduce core evaluation metrics, and conduct a comparative analysis of representative approaches. Finally, we discuss the practical significance of MPR in autonomous driving, robotic navigation, and remote sensing-based localization, and outline promising research directions for future exploration.
@@ -49,6 +53,7 @@ This paper provides a comprehensive review of recent advancements in mutimodal p
 |16| [CrossBEV-PR: Cross-modal Visual-LiDAR Place Recognition via BEV Feature Distillation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11246576) | Jianbo Xu | IROS | [Github](https://github.com/IRMVLab/CrossBEV-PR) |
 |17| [InsCMPR: Efficient Cross-Modal Place Recognition via Instance-Aware Hybrid Mamba-Transformer](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11128210) | Shuaifeng Jiao | ICRA | [Github](https://github.com/nubot-nudt/InsCMPR) |
 |18| [Monocular visual place recognition in lidar maps via cross-modal state space model and multi-view matching](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11128591)| Gongxin Yao | ICRA | [Github](https://github.com/y2w-oc/I2P-CMPR) |
+|19|[VGGT-MPR: VGGT-Enhanced Multimodal Place Recognition in Autonomous Driving Environments](https://arxiv.org/pdf/2602.19735) | Jingyi Xu | arXiv |  |
 #### 1. 3 Modality-Unified Fusion
 | No.| Title | First Author | Venue | Github |
 |--|--|--|--|--|
@@ -76,6 +81,10 @@ This paper provides a comprehensive review of recent advancements in mutimodal p
 |5| [Mms-vpr: Multimodal street-level visual place recognition dataset and benchmark](https://arxiv.org/pdf/2505.12254) | Yiwei Ou | arXiv | [Github](https://github.com/yiasun/MMS-VPRlib) |
 |6| [MSSPlace: Multi-sensor place recognition with visual and text semantics](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11195136) | Alexander Melekhin| IEEE Access | [Github](https://github.com/alexmelekhin/MSSPlace) |
 |7| [Text2Graph VPR: A Text-to-Graph Expert System for Explainable Place Recognition in Changing Environments](https://arxiv.org/pdf/2512.18613)| Saeideh Yousefzadeh |arXiv  |  |
+|8| [LVLM-empowered Multi-modal Representation Learning for Visual Place Recognition](https://arxiv.org/pdf/2407.06730)| Teng Wang |arXiv  |  |
+|9| [InternVL-VPR: Hierarchical Zero-Shot Visual Place Recognition with VLM-Driven Re-Ranking](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11249210)| Zhi Hu |APSIPA ASC|  |
+|11| [FM Loc: Using Foundation Models for Improved Vision Based Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10342439)| Reihaneh Mirjalili |IROS|  |
+|12| [Guiding Multimodal LLMs for Efficient Visual Place Recognition](https://www.sciencedirect.com/science/article/pii/S0167865526000413)| Zhijian He|Pattern Recognition Letters|  |
 #### 2. 2 Text–LiDAR Fusion
 |No.| Title | First Author | Venue | Github |
 |--|--|--|--|--|
@@ -90,6 +99,7 @@ This paper provides a comprehensive review of recent advancements in mutimodal p
 |9|[CMMLoc: Advancing Text-to-PointCloud Localization with Cauchy-Mixture-Model Based Framework](https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_CMMLoc_Advancing_Text-to-PointCloud_Localization_with_Cauchy-Mixture-Model_Based_Framework_CVPR_2025_paper.pdf) | Yanlong Xu | CVPR | [Github](https://github.com/kevin301342/CMMLoc) |
 |10| [Text to Point Cloud Localization with Multi-Level Negative Contrastive Learning](https://ojs.aaai.org/index.php/AAAI/article/view/32574) | Dunqiang Liu | AAAI | [Github](https://github.com/dqliua/MNCL) |
 |11| [Text-guided scene perception cross-modal place recognition for remote sensing localization](https://www.sciencedirect.com/science/article/pii/S1566253525009297) | Mo Yang | Information Fusion |  |
+|12| [ VLM-Loc: Localization in Point Cloud Maps via Vision-Language Models](https://arxiv.org/pdf/2603.09826) | Shuhao Kang| arXiv |  |
 ### 3.  Radar-Involved Multimodal Fusion
 |No.| Title | First Author | Venue | Github |
 |--|--|--|--|--|
@@ -103,3 +113,12 @@ This paper provides a comprehensive review of recent advancements in mutimodal p
 |8| [RaLF: Flow-based global and metric radar localization in LiDAR maps](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10610626)| Abhijeet Nayak| ICRA | [Github](https://github.com/robot-learning-freiburg/RaLF) |
 |9| [LRFusionPR: A Polar BEV-Based LiDAR-Radar Fusion Network for Place Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11177016) | Zhangshuo Qi |IEEE Robotics and Automation Letters  | [Github](https://github.com/QiZS-BIT/LRFusionPR) |
 |10| [SHeRLoc: Synchronized Heterogeneous Radar Place Recognition for Cross-Modal Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11206409) |  Hanjun Kim| IEEE Robotics and Automation Letters |  |
+### 4.  Other Multimodal Fusion Methods
+|No.| Title | First Author | Venue | Github |
+|--|--|--|--|--|
+|1|[Creating navigation map in semi-open scenarios for intelligent vehicle localization using multi-sensor fusion](https://www.sciencedirect.com/science/article/pii/S0957417421009507) | Yicheng Li|Expert Systems with Applications|  |
+|2|[Learning to find the optimal correspondence between SAR and optical image patches]() |Haoyuan Li |IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing |[Github](https://github.com/Collebt/CMPC)|
+|3|[AGL-NET: Aerial-ground cross-modal global localization with varying scales](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10802020)|Tianrui Guan | IROS|  |
+|4|[Maplocnet: Coarse-to-fine feature registration for visual re-localization in navigation maps](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10802757) |Hang Wu|IROS |  |
+|5|[RGB-Thermal Visual Place Recognition via Vision Foundation Model](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11247479)|Minghao Ye|IROS| [Github](https://github.com/HITSZ-NRSL/RGB-Thermal-VPR) |
+|6|[Multi-modal aerial-ground cross-view place recognition with neural odes](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Multi-Modal_Aerial-Ground_Cross-View_Place_Recognition_with_Neural_ODEs_CVPR_2025_paper.pdf) |Qiyu Kang | CVPR|  |
