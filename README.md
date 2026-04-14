@@ -117,4 +117,4 @@ This paper provides a comprehensive review of recent advancements in mutimodal p
 |3|[AGL-NET: Aerial-ground cross-modal global localization with varying scales](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10802020)|Tianrui Guan | IROS|  |
 |4|[Maplocnet: Coarse-to-fine feature registration for visual re-localization in navigation maps](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10802757) |Hang Wu|IROS |  |
 |5|[RGB-Thermal Visual Place Recognition via Vision Foundation Model](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11247479)|Minghao Ye|IROS| [Github](https://github.com/HITSZ-NRSL/RGB-Thermal-VPR) |
-|6|[Multi-modal aerial-ground cross-view place recognition with neural odes](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Multi-Modal_Aerial-Ground_Cross-View_Place_Recognition_with_Neural_ODEs_CVPR_2025_paper.pdf) |Qiyu Kang | CVPR|  |
+|6|[Multi-modal aerial-ground cross-view place recognition with neural odes](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Multi-Modal_Aerial-Ground_Cross-View_Place_Recognition_with_Neural_ODEs_CVPR_2025_paper.pdf) |Sijie Wang| CVPR|  |
