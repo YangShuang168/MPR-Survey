@@ -67,7 +67,7 @@ This paper provides a comprehensive review of recent advancements in mutimodal p
 |9|  [Modalink: Unifying modalities for efficient image-to-pointcloud place recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10801556)| Weidong Xie | IROS | [Github](https://github.com/haomo-ai/ModaLink) |
 |10| [Rgb2lidar: Towards solving large-scale cross-modal visual localization](https://dl.acm.org/doi/epdf/10.1145/3394171.3413647) | Niluthpol Chowdhury Mithun | ACM MM | [Github](https://github.com/niluthpol/RGB2LIDAR) |
 |11| [C2l-pr: Cross-modal camera-to-lidar place recognition via modality alignment and orientation voting](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10586273) |Huaiyuan Xu |IEEE Transactions on Intelligent Vehicles| [Github](https://github.com/lab-sun/C2L-PR) |
-|12|[i3dLoc: Image-to-range cross-domain localization robust to inconsistent environmental conditions](https://arxiv.org/abs/2105.12883)|Yin Peng |arXiv| |
+|12|[i3dLoc: Image-to-range cross-domain localization robust to inconsistent environmental conditions](https://arxiv.org/abs/2105.12883)|Peng Yin |arXiv| |
 |13| [Cross-Modal 2D-3D Localization with Single-Modal Query](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10282358) | Zhipeng Zhao | IGARSS |  |
 |14| [Monocular visual place recognition in lidar maps via cross-modal state space model and multi-view matching](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11128591)| Gongxin Yao | ICRA | [Github](https://github.com/y2w-oc/I2P-CMPR) |
 |15| [GSPR: Multimodal place recognition using 3D Gaussian splatting for autonomous driving](https://ieeexplore.ieee.org/abstract/document/11247374/)| Zhangshuo Qi | IROS | [Github](https://github.com/QiZS-BIT/GSPR) |
@@ -107,7 +107,7 @@ This paper provides a comprehensive review of recent advancements in mutimodal p
 |10|[CMMLoc: Advancing Text-to-PointCloud Localization with Cauchy-Mixture-Model Based Framework](https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_CMMLoc_Advancing_Text-to-PointCloud_Localization_with_Cauchy-Mixture-Model_Based_Framework_CVPR_2025_paper.pdf) | Yanlong Xu | CVPR | [Github](https://github.com/kevin301342/CMMLoc) |
 |11| [Text to Point Cloud Localization with Multi-Level Negative Contrastive Learning](https://ojs.aaai.org/index.php/AAAI/article/view/32574) | Dunqiang Liu | AAAI | [Github](https://github.com/dqliua/MNCL) |
 |12| [Text-guided scene perception cross-modal place recognition for remote sensing localization](https://www.sciencedirect.com/science/article/pii/S1566253525009297) | Mo Yang | Information Fusion |  |
-|13| [Text2Loc++: Generalizing 3D Point Cloud Localization from Natural Language](https://arxiv.org/pdf/2511.15308)| Yan Xia | arXiv |  |
+|13| [Text2Loc++: Generalizing 3D Point Cloud Localization from Natural Language](https://arxiv.org/pdf/2511.15308)| Yan Xia | Transactions on Pattern Analysis and Machine Intelligence|  |
 |14| [ VLM-Loc: Localization in Point Cloud Maps via Vision-Language Models](https://arxiv.org/pdf/2603.09826) | Shuhao Kang| arXiv |  |
 
 ### 4.  Radar-Assisted Fusion
